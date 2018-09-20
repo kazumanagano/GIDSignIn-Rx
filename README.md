@@ -1,0 +1,2 @@
+# GIDSignIn-Rx
+GoogleSighIn FrameworkをRxSwiftでラップした拡張クラスを作りました
